@@ -1,0 +1,6 @@
+Em jogo de futebol podemos citar como objetos os atletas, com atributos: Time, função, altura, peso, número e com metodos: Jogar, atacar, defender;
+tecnico com atributos: Estratégia e com metodos: Treinar, auxiliar;
+juiz com atributos: Regras, cartão, faltas e com metodos: Arbitrar, controlar, punir;
+bandeirinha com atributos: Regras, faltas e com metodos: Controlar, punir;
+jornalista com atributos: Entrevista, transmissão, noticia e com metodos: Entrevistar, transmitir;
+torcedor com atributos: Time, ingresso e com metodos: Torcer, Comemorar.

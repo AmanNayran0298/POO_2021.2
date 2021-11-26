@@ -1,0 +1,6 @@
+Atributos são variáveis ​​internas de uma classe, e o conjunto de atributos de uma classe é geralmente chamado de "estado" da classe.
+Essas variáveis ​​podem ser qualquer tipo de texto (string, número, booleano, etc.) ou outros objetos.
+Os métodos consistem nos comportamentos que uma classe pode ter. Em outras palavras, eles são segmentos de código executáveis.
+Esses métodos são métodos internos da classe e os métodos podem acessar o estado da classe.
+Tomando uma pessoa como exemplo, podemos usar seu nome, idade, peso, altura, CPF, RG. como atributos. Como método, podemos
+atribuir comer, beber, dormir e outras ações.

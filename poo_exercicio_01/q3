@@ -1,0 +1,29 @@
+'''
+Peso: 
+Importa = Sistema de uma academia 
+Não importa = Sistema de um mercado
+
+Tipo de : 
+Importa = Sistema de transito 
+Não importa = Sistema de uma oficina
+
+Tipo Sanguíneo: 
+Importa = Sistema de saúde 
+Não importa = Sistema de um mercado
+
+Habilidade destra: 
+Importa = Sistema de um centro esportivo 
+Não importa = Sistema de um baonc
+
+Percentual de gordura: 
+Importa = Sistema de saúde nutricional 
+Não importa = Sistema de um hotel
+
+Saldo em conta: 
+Importa = Sistema de um banco 
+Não importa = Sistema de uma escola
+
+Etinia: 
+Importa = Sistema IBGE 
+Não importa = Sistema de um mercado
+'''
