@@ -1,0 +1,2 @@
+Ocorrera um erro na incialização, porém não será pelo fato da variável não ter sido incializada previamente e
+sim, pela falta do "this".

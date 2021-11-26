@@ -1,0 +1,4 @@
+a) O resultado dos dois co.log snsoleerá 90, pois quando colocado
+c1 = c2 a referência de c2 é perdida, passando assim a existe apenas uma conta.
+
+b) O objeto apontado por c1 é perdido, c1 e c2 irão apontar para a mesma conta.
