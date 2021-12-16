@@ -1,4 +1,2 @@
-O erro de compilação, neste caso, é causado pelo construtor, porque,
-Precisa passar um parâmetro ao usar. Pacote
-Este código apenas pega uma linha de r.volume e usa 10 como
-Alcance.
+O erro de compilação, neste caso, é causado pelo construtor, porque precisa passar um parâmetro ao usa-lo. 
+Para ajeitar este código apenas pega uma linha de r.volume e usa 10 como parametro.
