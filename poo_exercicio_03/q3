@@ -1,9 +1,3 @@
-O erro de compilação nesse caso é devido ao constructor pois,
-ao utilizar ele é necessario passar um parametro. Para arrumar
-esse código basta tirar a linha do r.volume e passar o 10 como
-parametro.
-
-----------------------------
 O erro de compilação, neste caso, é causado pelo construtor, porque,
 Precisa passar um parâmetro ao usar. Pacote
 Este código apenas pega uma linha de r.volume e usa 10 como
